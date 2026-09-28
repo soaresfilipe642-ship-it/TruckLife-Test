@@ -1,4 +1,4 @@
-name: Build Truck Life v1.30 APK
+name: .github/workflows/build-v1.30.yml
 
 on:
   workflow_dispatch:
